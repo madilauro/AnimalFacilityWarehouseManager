@@ -1,16 +1,12 @@
-# animal_facility_storage_manager
+# About the project
 
-Animal facility storage manager
+Animal facility warehouse manager
 
-## Getting Started
+## This is a work-in-progress project
 
-This project is a starting point for a Flutter application.
+This project wants to improve the workflow within my team, being able to easily keep track of all the material taken from the warehouse.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project wants to improve the workflow within my team, being able to easily keep track of all the material taken from the warehouse.
+In the future, this application will create statistics on the use of all the material,
+suggesting monthly orders based on stock in the warehouse,
+and will allow the creation of Excel files to send to logistics to order new material.
